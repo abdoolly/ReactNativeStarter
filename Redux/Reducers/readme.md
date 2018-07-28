@@ -1,0 +1,1 @@
+### We put here our reducer preferrably into folders by component names to know which reducer belongs to which component
